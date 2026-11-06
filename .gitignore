@@ -1,0 +1,16 @@
+# Dependencies
+scripts/node_modules/
+
+# Environment variables (penting!)
+scripts/.env
+.env
+.env.local
+
+# Log & cache
+*.log
+.npm
+.DS_Store
+
+# Build
+dist/
+.angular/
